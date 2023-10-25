@@ -272,8 +272,8 @@ body{
       }
   }
 .btn:hover i{
-    -webkit-animation: i 0.3s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
-            animation: i 0.3s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
+    -webkit-animation: i 0.5s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
+            animation: i 0.5s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
 }
 
 .document .contact{
